@@ -1,0 +1,201 @@
+id;song;author;genres;filename;duration;nº fragments
+1;Espresso;Sabrina Carpenter;Pop,Dance Pop;song_1;3:20;16
+2;Beautiful Things;Benson Boone;Pop Rock,Indie Rock;song_2;3:12;16
+3;BIRDS OF A FEATHER;Billie Eilish; Alternative Pop, Indie Pop;song_3;3:31;17
+4;Gata Only;FloyyMenor, Cris Mj;Reggaeton,Latin Urban;song_4;3:35;17
+5;Lose Control;Teddy Swims;Soul/Pop,R&B;song_5;3:30;17
+6;End of Beginning;Djo;Indie Rock,Psychedelic Rock;song_6;2:39;13
+7;Too Sweet;Hozier;Indie Folk,Alternative Folk;song_7;4:08;20
+8;One Of The Girls;The Weeknd, JENNIE, Lily-Rose Depp;R&B/Pop,Synth Pop;song_8;4:04;20
+9;Cruel Summer;Taylor Swift;Pop,Synth Pop;song_9;2:59;14
+10;Die With A Smile;Lady Gaga, Bruno Mars;Pop, Ballad;song_10;4:12;21
+11;i like the way you kiss me;Artemas;Electropop,Dance Pop;song_11;2:22;11
+12;we can't be friends;Ariana Grande;Pop,Alternative Pop;song_12;3:48;19
+13;Please Please Please;Sabrina Carpenter;Pop,Indie Pop;song_13;4:23;21
+14;Good Luck, Babe!;Chappell Roan;Indie Pop,Synth Pop;song_14;3:38;18
+15;greedy;Tate McRae;Dance Pop,Electropop;song_15;2:16;11
+16;MILLION DOLLAR BABY;Tommy Richman;Alternative R&B,Hyperpop;song_16;2:35;12
+17;Who;Jimin;K-Pop,R&B;song_17;3:27;17
+18;A Bar Song (Tipsy);Shaboozey;Country,Country Rock;song_18;2:53;14
+19;LUNA;Feid, ATL Jacob;Reggaeton,Latin Trap;song_19;3:16;16
+20;Not Like Us;Kendrick Lamar;Hip-Hop/Rap,West Coast Hip-Hop;song_20;5:54;29
+21;My Love Mine All Mine; Mitski;Indie Folk,Singer-Songwriter;song_21;2:18;11
+22;I Wanna Be Yours;Arctic Monkeys;Indie Rock,Alternative Rock;song_22;3:03;15
+23;Stick Season;Noah Kahan;Folk Rock,Americana;song_23;3:02;15
+24;The Night We Met;Lord Huron;Indie Folk,Dream Pop;song_24;3:28;17
+25;I Had Some Help (Feat. Morgan Wallen);Post Malone, Morgan Wallen;Country Pop,Southern Rock;song_25;3:21;16
+26;Sweater Weather;The Neighbourhood;Indie Rock,Alternative Rock;song_26;4:00;20
+27;FE!N (feat. Playboi Carti);Travis Scott, Playboi Carti;Hip-Hop/Rap,Trap;song_27;3:13;16
+28;Seven (feat. Latto) (Explicit Ver.);Jung Kook, Latto;K-Pop,Hip-Hop;song_28;3:04;15
+29;Fortnight (feat. Post Malone);Taylor Swift, Post Malone;Pop,Folk Pop;song_29;3:49;19
+30;Si Antes Te Hubiera Conocido;KAROL G;Reggaeton,Latin Pop;song_30;3:15;16
+31;As It Was;Harry Styles;Synth-Pop,Indie Pop;song_31;2:45;13
+32;La Diabla;Xavi;Latin Urban,Corridos Tumbados;song_32;2:52;14
+33;StarBoy;The Weeknd, Daft Punk;R&B/Pop,Electropop;song_33;3:50;19
+34;Standing Next to You;Jung Kook, Latto;K-Pop,Dance Pop;song_34;3:26;17
+35;Austin (Boots Stop Workin');Dasha;Country,Country Pop;song_35;2:51;14
+36;See You Again (feat. Kali Uchis);Tyler The Creator, Kali Uchis;Hip-Hop/R&B,Neo Soul;song_36;3:00;15
+37;Kill Bill;SZA;R&B,Alternative R&B;song_37;2:33;12
+38;Yellow;Coldplay;Alternative Rock,Britpop;song_38;4:32;22
+39;Another Love;Tom Odell;Indie Pop,Singer-Songwriter;song_39;4:01;20
+40;Flowers;Miley Cyrus;Pop,Soft Rock;song_40;3:20;16
+41;CARNIVAL; Â¥$, Kanye West, Ty Dolla $ign;Hip-Hop,Trap;song_41;4:21;21
+42;Unwritten;Natasha Bedingfield;Pop,Soft Rock;song_42;3:45;18
+43;I Remember Everything (feat. Kacey Musgraves);Zach Bryan, Kacey Musgraves;Country,Americana;song_43;3:47;18
+44;QLONA;KAROL G, Peso Pluma;Reggaeton,Latin Trap;song_44;2:52;14
+45;Saturn;SZA;R&B,Neo Soul;song_45;3:07;15
+46;LUNCH;Billie Eilish;Alternative Pop,Hyperpop;song_46;2:59;14
+47;Riptide;Vance Joy;Indie Folk,Folk Pop;song_47;3:24;17
+48;Blinding Lights;The Weeknd;Synthwave/Pop,Retro Pop;song_48;3:23;16
+49;PERRO NEGRO;Bad Bunny, Feid;Reggaeton,Latin Trap;song_49;2:42;13
+50;Water;Tyla;Afrobeats,Amapiano;song_50;3:21;16
+51;Lovin On Me;Jack Harlow;Pop-Rap, Pop;song_51;2:19;11
+52;Save Your Tears;The Weeknd, Ariana Grande;Synth Pop, Pop;song_52;3:11;15
+53;Die For You;The Weeknd, Ariana Grande;R&B;song_53;3:52;19
+54;Snooze;SZA;R&B;song_54;3:23;16
+55;Paint The Town Red;Doja Cat;Hip-Hop;song_55;3:51;19
+56;Houdini;Dua Lipa;Pop,Electropop, Dance Pop;song_56;3:08;15
+57;Calm Down;Rema, Selena Gomez;Afrobeats,Pop;song_57;3:59;19
+58;Last Night;Morgan Wallen;Country, Country Pop;song_58;2:45;13
+59;Texas Hold 'Em;Beyonce;R&B, Pop;song_59;3:57;19
+60;Something In The Orange;Zach Bryan;Country Folk, Country;song_60;3:48;19
+61;What Was I Made For?;Billie Eilish;Pop, Balada;song_61;3:42;18
+62;Like That ;Future, Metro Boomin, Kendrick Lamar;Hip-Hop, Trap;song_62;4:29;22
+63;Someome You Loved;Lewis Capaldi;Pop, Balada;song_63;3:02;15
+64;Sunflower;Post Malone, Swae Lee;Hip-Hop, Rap, Pop;song_64;2:38;13
+65;Perfect;Ed Sheeran;Pop, Balada;song_65;4:23;21
+66;I'm Good (Blue);David Guetta, Bebe Rexha;Pop, Electropop, Dance Pop;song_66;2:55;14
+67;Until I Found You;Stephen Sanchez;Indie Rock, Rock;song_67;2:55;14
+68;Daylight;David Kushner;Indie Pop, Folk Pop;song_68;3:33;17
+69;Viva La Vida;Coldplay;Pop, Art Rock;song_69;4:02;20
+70;Vampire;Olivia Rodrigo;Pop Rock, Alternative Pop;song_70;3:39;18
+71;Magnetic;ILLIT;Hip-Hop, Rap;song_71;3:08;15
+72;I Ain't Worried;OneRepubic;Pop Rock;song_72;2:28;12
+73;Anti-Hero;Taylor Swift;Pop, Synth Pop;song_73;3:23;16
+74;Lover;Taylor Swift;Pop, Synth Pop;song_74;3:58;19
+75;Take On Me;a-ha;Synth Pop;song_75;3:45;18
+76;Bling-Bang-Bang-Born;Creepy Nuts;Hip-Hop, Rap;song_76;2:46;13
+77;Fast Car;Luke Combs;Country;song_77;4:25;22
+78;Summertine Sadness;Lana Del Rey, Cedric Gervais;Dream Pop, Electropop, Pop;song_78;3:45;18
+79;Prada;casso, RAYE, D-Block Europe;Hip-Hop, Rap;song_79;2:12;11
+80;Houdini;Eminem;Hip-Hop, Rap;song_80;3:47;18
+81;Believer;Imagine Dragons;Pop Rock, Electropop, Pop;song_81;3:24;17
+82;Counting Stars;OneRepubic;Pop Rock;song_82;4:19;21
+83;Según Quien;Maluma, Carin Leon;Regional Mexicano;song_83;2:22;11
+84;Without Me;Eminem;Hip-Hop, Rap;song_84;4:51;24
+85;Feather;Sabrina Carpenter;Pop;song_85;3:05;15
+86;Stay;The Kid LAROI, Justin Bieber;Pop Rap, Pop;song_86;2:19;11
+87;Shut Up My Moms Calling;Hotel Ugly;Indie Pop;song_87;2:45;13
+88;Take Me To Church;Hozier;Indie Rock, Soul;song_88;4:00;20
+89;I Can Do It With A Broken Heart;Taylor Swift;Pop, Country;song_89;3:38;18
+90;Heat Waves;Glass Animals;Indie Pop, Synth Pop;song_90;3:55;19
+91;Pink + White;Frank Ocean;R&B;song_91;3:04;15
+92;Shape Of You;Ed Sheeran;Pop, Dancehall;song_92;3:51;19
+93;Everybody Wants To Rule The World;Tears For Fears;Synth Pop;song_93;4:21;21
+94;Stargazing;Myles Smith;Indie Pop;song_94;2:52;14
+95;Strangers ;Kenya Grace;Electropop, Dance Pop;song_95;2:53;14
+96;Every Breath You Take;The Police;Balada, Rock;song_96;4:12;21
+97;Dreams;Fleetwood Mac;Rock, Soft Rock;song_97;4:17;21
+98;Yes, And?;Ariana Grande;Pop;song_98;3:35;17
+99;Levitating;Dua Lipa;Disco, Pop;song_99;3:40;18
+100;Lovely;Billie Eilish, Khalid;Pop, R&B;song_100;3:20;16
+101;In The End;Linkin Park;Rap Rock;song_101;3:35;17
+102;All I Want For Christmas Is You;Mariah Carey;Pop, R&B, Navidad;song_102;4:02;20
+103;Redrum;21 Savage;Hip-Hop, Trap;song_103;4:32;22
+104;Slow It Down;Benson Boone;Pop;song_104;3:03;15
+105;Chihiro;Billie Eilish;Pop, Alternative Pop;song_105;5:03;25
+106;Belong Together;Mark Ambor;Pop;song_106;2:29;12
+107;Cold Heart (PNAU Remix);Elton John, Dua Lipa;Dance Pop, Pop;song_107;3:22;16
+108;Amargura;Karol G;Reggaeton, Latin Urban;song_108;2:49;14
+109;La Bachata;Manuel Turizo;Bachata, Latin Urban;song_109;2:42;13
+110;Dance The Night;Dua Lipa;Disco, Pop;song_110;2:57;14
+111;Nonsense;Sabrina Carpenter;Pop;song_111;2:43;13
+112;Training Season;Dua Lipa;Pop;song_112;3:30;17
+113;Si No Estas;Inigo Quintero;Balada, Pop;song_113;3:04;15
+114;Agora Hills;Doja Cat;Hip-Hop, Rap;song_114;4:25;22
+115;Scared To Start;Michael Marcagi;Pop;song_115;3:40;18
+116;Something Just Like This;The Chainsmokers, Coldplay;EDM, Pop;song_116;4:07;20
+117;Type Shit;Future, Metro Boomin, Travis Scott, Playboi Carti;Hip-Hop, Trap;song_117;3:49;19
+118;Monaco;Bad Bunny;Reggaeton, Trap Latino;song_118;4:26;22
+119;Locked Out Of Heaven;Bruno Mars;Pop Rock, Reggae Rock;song_119;3:53;19
+120;Have You Ever Seen The Rain;Creedence Clearwater Revival;Rock, Country Rock;song_120;2:45;13
+121;Iris;Goo Goo Dolls;Alternative Rock;song_121;4:49;24
+122;Last Christmas;Wham!;Synth Pop, Christmas;song_122;4:23;21
+123;Is It Over Now? ;Taylor Swift;Pop;song_123;3:54;19
+124;Pink Skies;Zach Bryan;Country, Folk;song_124;3:15;16
+125;Popular;The Weeknd, Playboi Carti, Madonna;Synth Pop, Hip-Hop;song_125;3:35;17
+126;I Don't Wanna Wait;David Guetta, OneRepublic;Dance Pop, EDM;song_126;2:34;12
+127;Fukumean ;Gunna;Trap, Hip-Hop;song_127;2:05;10
+128;3D;Jung Kook, Jack Harlow;K-Pop, Hip-Hop;song_128;3:21;16
+129;Que Onda;Calle 24, Chino Pacas, Fuerza Regida;Regional Mexicano;song_129;3:19;16
+130;Mr. Brightside;The Killers;Alternative Rock;song_130;3:42;18
+131;El Amor de Su Vida;Grupo Fronterea, Grupo Firme;Regional Mexicano;song_131;2:52;14
+132;Wildflower;Billie Eilish;Indie Pop, Electropop;song_132;4:21;21
+133;La Victima;Xavi;Pop Latino;song_133;2:36;13
+134;Perfect Night;LE SSERAFIM;K-Pop;song_134;2:42;13
+135;Harley Quinn;Fuerza Regida, Marshmello;Regional Mexicano;song_135;2:23;11
+136;Creep;Radiohead;Alternative Rock;song_136;3:59;19
+137;Si No Quieres No;Luis R Conriquez, Neton Vega;Regional Mexicano;song_137;2:02;10
+138;Supernova;aespa;K-Pop, Electropop;song_138;2:59;14
+139;Santa;Rvssian, Rauw Alejandro, Ayra StArr;Reguetón, Afrobeats;song_139;3:13;16
+140;Rich Baby Daddy;Drake, Sexyy Red, SZA;Hip-Hop, Trap;song_140;5:19;26
+141;Taste;Sabrina Carpenter;Pop;song_141;2:37;13
+142;Don't Stop Believin';Journey;Rock;song_142;4:10;20
+143;Bellakeo;Peso Pluma, Anitta;Reguetón, Latin Urban ;song_143;3:17;16
+144;Stumblin' In;CYRIL;Pop Rock;song_144;3:33;17
+145;Never Lose Me;Flo Milli;Hip-Hop, Rap;song_145;2:06;10
+146;Baby Shark;Pinkfong;Infantil, Dance;song_146;2:16;11
+147;Mockingbird;Eminem;Hip-Hop, Rap;song_147;4:13;21
+148;Rockin' Around The Christmas Tree;Brenda Lee;Rock, Navidad;song_148;2:08;10
+149;Can't Hold Us;Macklemore, Ryan Lewis, Ray Dalton;Hip-Hop, Pop;song_149;4:50;24
+150;Y Lloro;Junior H;Regional Mexicano;song_150;2:59;14
+151;Unforgettable;French Montana, Swae Lee;Soul, Hip-Hop, Dancehall;song_151;3:50;19
+152;LaLa;Myke Towers;Reggaeton, Latin Trap;song_152;3:17;16
+153;Like Crazy;Jimin;Synth Pop, K-Pop;song_153;3:22;16
+154;Down Bad;Taylor Swfit;Synth Pop, R&B;song_154;4:25;22
+155;Just The Way You Are;Bruno Mars;Pop, R&B;song_155;3:40;18
+156;Madonna;Natanael Cano, Oscar Maydon;Corridos tumbados, Regional Mexicano;song_156;3:05;15
+157;Miles On It;Marshmello, Kane Brown;Country Pop, EDM;song_157;2:48;14
+158;Sure Thing;Miguel;R&B, Soul;song_158;3:21;16
+159;La Bebe;Yng Lvcas, Peso Pluma;Reggaeton, Corridos tumbados;song_159;3:44;18
+160;Hot To Go!;ChappelL Roan;Pop, Dance Pop;song_160;3:04;15
+161;Alibi;Sevdaliza, Pabllo Vittar, Yesult;Electropop, Alternative Pop ;song_161;2:45;13
+162;BAND4BAND;Central Cee, Lil Baby;UK Rap, Trap;song_162;2:18;11
+163;Jingle Bell Rock;Bobby Helms;Rockabilly, Christmas;song_163;2:10;10
+164;When I Was Your Name;Bruno Mars;Pop, Ballad;song_164;3:34;17
+165;Evergreen;Richy Mitch, The Coal Miners;Indie Folk, Alternative;song_165;1:27;7
+166;One Dance;Drake, WizKid, Kyla;Afrobeats, Dancehall;song_166;2:54;14
+167;Cowgirls;Morgan Wallen, ERNEST;Country, Southern Rock;song_167;3:01;15
+168;IDGAF;Drake, Yeat;Hip-Hop, Trap;song_168;2:18;11
+169;Lady Gaga;Peso Pluma, Gabito Ballesteros, Junior H;Corridos tumbados, Regional Mexicano;song_169;3:33;17
+170;The Door;Teddy Swims;Soul, Pop;song_170;3:31;17
+171;The Sound Of Silence ;Disturbed;Heavy Metal, Rock;song_171;3:05;15
+172;Exes;Tate McRae;Pop;song_172;2:39;13
+173;Murder On The Dancefloor;;Disco, Dance-pop;song_173;3:49;19
+174;Sweet Child O' Mine;Guns N' Roses;Hard Rock;song_174;5:02;25
+175;Numb;Linkin Park;Nu Metal, Alternative Rock;song_175;3:05;15
+176;Move;Adam Port, Stryv, Malachiii;House, Electronic;song_176;3:00;15
+177;I Know?;Travis Scott;Hip-Hop, Trap;song_177;3:33;17
+178;Primera Cita;Carin Leon;Regional Mexicano;song_178;3:22;16
+179;Big Dawgs;Hanumankind, Kalmi;Hip-Hop, Rap;song_179;3:10;15
+180;Pedro;Jaxomy, Agatino Romero, Raffaella Carra;Dance, Electronic;song_180;2:03;10
+181;Whatever;Kygo, Ava Max;Dance Pop, EDM;song_181;2:57;14
+182;Kehlani;Jordan Adetunji;Hip-Hop, R&B;song_182;2:02;10
+183;Billie Jean;Michael Jackson;Pop, R&B;song_183;4:52;24
+184;Euphoria;Kendrick Lamar;Hip-Hop, Rap;song_184;6:23;31
+185;Idol;YOASOBI;J-Pop, Pop;song_185;3:33;17
+186;Ain't No Love In Oklahoma;Luke Combs;Country;song_186;3:28;17
+187;Your Love;The Outfield;Pop Rock;song_187;3:41;18
+188;Guess;Charli XCX, Billie Eilish;Pop, Electropop;song_188;2:26;12
+189;Dial Drunk;Noah Kahan, Post Malone;Folk Rock, Hip-Hop;song_189;3:44;18
+190;Bye Bye Bye;*NSYNC;Pop;song_190;3:22;16
+191;Somewhere Only We Know;Keane;Alternative Rock;song_191;3:56;19
+192;First Person Shooter;Drake, J.Cole;Hip-Hop, Rap;song_192;4:07;20
+193;Si No Es Contigo;Cris Mj;Reggaeton, Latin Urban;song_193;2:47;13
+194;The Boy Is Mine;Ariana Grande, Brandy, Monica;R&B, Pop;song_194;2:53;14
+195;Where The Wild Things Are;Luke Combs;Country;song_195;3:58;19
+196;Cardigan;Taylor Swfit;Indie Folk, Alternative;song_196;4:00;20
+197;Santa Tell Me;Ariana Grande;Christmas, Pop;song_197;3:24;17
+198;No Role Modelz;J. Cole;Hip-Hop, Rap;song_198;4:52;24
+199;Praise Jah In The Moonlight;YG Marley;Reggae;song_199;4:23;21
+200;Toxic Till The End;ROSE;Alternative, Indie Rock;song_200;2:37;13
