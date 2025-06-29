@@ -21,6 +21,7 @@ El primer pas, és obrir el arxiu html amb el teu navegador preferit, si no s'ob
 ### **2 - EXPLORAR ELS PUNTS DEL GRÀFIC**
 - Cada punt representa un fragment d'una cançó classificada
 - En passar el cursor per sobre, es mostrà informació com:
+  
   - Títol de la cançó
   - Nom del fitxer d'àudio
   - Gènere musical
@@ -31,7 +32,7 @@ El primer pas, és obrir el arxiu html amb el teu navegador preferit, si no s'ob
 - Pots desplaçar el gràfic arrossegant-lo
 - Al control lliscant de sota el gràfic, pots provar a augmentar o disminuir el valor d'èpsilon.
 
-### INTERPRETACIÓ DELS ELEMENTS
+### 4 - INTERPRETACIÓ DELS ELEMENTS
 - **Color**: Indica el clúster
 - **Forma**: Representa el gènere
     
