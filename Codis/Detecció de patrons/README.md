@@ -10,4 +10,4 @@
   
 - **plotTopBottomSongs.py**: Codi dels gràfics de l'experiment 5.3. Tendència de classificació per rànquing pels diferents espais.
   
-- **graficInteractiu.py**: Codi per generar el gràfic interactiu de l'experiment 5.4. Tendència de classificació per gènere.
+- **GràficInteractiu.py**: Codi per generar el gràfic interactiu de l'experiment 5.4. Tendència de classificació per gènere.
