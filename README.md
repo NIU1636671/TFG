@@ -1,6 +1,6 @@
 # TFG
 
-En aquest repositori del projecte titutal: L'ADN dels èxits musicals: Anàlisi i Recomanació basada en patrons, trobaràs:
+En aquest repositori del projecte titutal: **L'ADN dels èxits musicals: Anàlisi i Recomanació basada en patrons**, trobaràs:
 
 - Article TFG
 - Codis implementats: Conté el codi de les diferents fases del projecte: Extracció de característiques, Detecció de patrons, Sistema de recomanació
