@@ -11,7 +11,7 @@ En aquest repositori del projecte titutal: **L'ADN dels èxits musicals: Anàlis
 # GRÀFIC INTERACTIU - MANUAL D'ÚS
 
 ## Descripció 
-Aquest gràfic interactiu representa punts corresponents a fragments de cançons del rànquing Billboard, agrupats segons paràmetres de clustering. El gràfic ha estat creat amb la llibreria Plotly. Quan s'obre el gràfic es visualitzen tres gràfics, cada gràfic representa dades amb la dimensionalitat reduïda: 1) PCA, 2) T-SNE, 3) UMAP. L'objectiu es analitzar el comportament dels fragments amb diferents visualitzacions.
+Aquest gràfic interactiu representa punts corresponents a fragments de cançons del rànquing Billboard, agrupats segons paràmetres de clustering. El gràfic ha estat creat amb la llibreria Plotly. Quan s'obre el gràfic es visualitzen tres gràfics, cada gràfic representa dades amb la dimensionalitat reduïda: 1) PCA, 2) T-SNE, 3) UMAP. L'objectiu És analitzar el comportament dels fragments amb diferents visualitzacions.
 
 ## Com utilitzar el gràfic?
 
